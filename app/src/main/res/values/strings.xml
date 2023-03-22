@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TeLoVendo</string>
+    <string name="te_lo_vendo">¡Bienvenue à: Je te le vends!</string>
+    <string name="todo">TODO</string>
+    <string name="button">Commencer</string>
+    <string name="product_description" />
+    <string name="et_description" />
+</resources>
